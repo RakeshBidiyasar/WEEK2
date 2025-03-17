@@ -1,2 +1,1 @@
-Perform K-Fold Cross-Validation Try improving model performance using hyperparameter tuning
-
+Collect a dataset (I can provide one if you need) Perform data preprocessing (handle missing values, scale data) Apply Linear Regression / Random Forest Evaluate model performance BONUS: Add a small web interface using Flask (optional)"
